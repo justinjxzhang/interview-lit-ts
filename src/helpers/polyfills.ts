@@ -1,0 +1,1 @@
+export type HtmlInputElementChangedEvent = Event & { currentTarget: HTMLInputElement}
